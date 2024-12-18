@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=28036d&height=120&text=안녕하세요~&animation=twinkling&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=28036d&height=120&text=Seyeon Park's GITHUB&animation=twinkling&fontColor=ffffff&fontSize=50" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 저는 항상 배우고 싶은 개발자 입니다. </h2>  
